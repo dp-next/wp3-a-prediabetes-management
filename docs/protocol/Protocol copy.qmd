@@ -1,0 +1,136 @@
+---
+title: "Individuals-with-prediabetes-managed-in-Denmark"
+author: "David-Vadsholt"
+format: docx
+editor: visual
+bibliography: references.bib
+---
+
+# How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?
+
+## Background
+
+Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide[@rooney2023]. In Denmark, nearly 19,000 individuals are diagnosed with T2D each year, contributing to more than 250,000 people living with the disease[@carstensen2020]. In addition, approximately 60,000 individuals are estimated to have undiagnosed T2D, while nearly 300,000 people are living with prediabetes[@jørgensen2018].
+
+Prediabetes is an intermediate state of dysglycaemia associated with an increased risk of developing T2D and cardiovascular disease. Depending on the diagnostic criteria applied, approximately 10–40% of individuals with prediabetes progress to T2D within 1–5 years, whereas 17–45% revert to normoglycaemia without developing diabetes[@hong2016; @vistisen2019; @tabák2012; @larsson2000].
+
+Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D[@pan1997; @tuomilehto2001; @reductio2002]. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors.
+
+Little is known about how individuals are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, patient characteristics associated with receiving recommended management remain unknown.
+
+Understanding current management practices is essential to identify potential gaps in care and inequalities in the delivery of preventive healthcare. Identifying patient groups who are less likely to receive recommended management may help inform future national recommendations and improve the implementation of preventive care for individuals with prediabetes.
+
+Therefore, the primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs. The secondary aim is to identify demographic, clinical, and socioeconomic characteristics associated with receiving recommended management.
+
+## Methods
+
+### Data sources
+
+Data will be obtained as part of the DP-Next prospective cohort study. Participants undergo a questionnaire specifically developed for this study. The questionnaire collects patient-reported information on communication of the prediabetes diagnosis, follow-up, referral to preventive interventions and participation in interventions.
+
+### Study design
+
+This study is a cross-sectional study within the ongoing DP-Next prospective cohort study. Questionnaire data will be collected as part of the DP-Next questionnaire, to assess the management of prediabetes, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive interventions.
+
+### Study population
+
+The study population consist of adults aged 40–50 years participating in the ongoing DP-Next prospective cohort study. Individuals are eligible for inclusion if they have prediabetes, defined as a HbA1c level of 42–47 mmol/mol within 2 years. Participants completing the study questionnaire will be included in the present analysis. Participants with missing questionnaire data will be excluded.
+
+### Assessment of prediabetes management
+
+Patient-reported management of prediabetes will be assessed using a study-specific questionnaire. The questionnaire includes information on communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
+
+Communication of the diagnosis will be assessed according to whether participants report having been informed of their prediabetes diagnosis. Offer of follow-up will be assessed based on whether participants report having been offered repeated HbA1c testing or other structured follow-up after diagnosis. Referral to preventive interventions will be assessed according to whether participants report having been referred to municipal lifestyle programs or other preventive initiatives. Participation in preventive programs will be categorized as full participation, partial participation, or no participation.
+
+### Outcome
+
+The primary outcomes will be patient-reported measures of prediabetes management, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
+
+Secondary outcomes included patient-reported lifestyle behaviours assessed using the International Physical Activity Questionnaire Short Form, dietary habits, alcohol consumption, and smoking status.
+
+### Participant characteristics
+
+Participant characteristics included age, sex, body mass index, educational level, socioeconomic status, health literacy, personality and family history of type 2 diabetes. These variables were included to characterize the study population and to examine their association with patient-reported management of prediabetes.
+
+### Statistical analysis
+
+Participant characteristics will be summarized using means with standard deviations for continuous variables and frequencies with percentages for categorical variables.
+
+The primary analyses will describe patient-reported management of prediabetes, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
+
+Unadjusted and adjusted logistic regression models will be used to examine participant characteristics associated with communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs. Results will be reported as odds ratios with 95% confidence intervals. Adjusted models will include all participant characteristics.
+
+A two-sided *p*-value \<0.05 will be considered statistically significant. Statistical analyses will be performed using R version XX (R Foundation for Statistical Computing, Vienna, Austria).
+
+## References
+
+## Appendix 2:
+
+Figure 1: Flowchart of study population
+
+Figure 2: Overview of follow-up based on region
+
+Table 1: Baseline characteristics
+
+| Baseline characteristics          | Total |
+|-----------------------------------|-------|
+| Gender                            |       |
+| Age                               |       |
+| BMI                               |       |
+| Educational level                 |       |
+| Socioeconomic status              |       |
+| Health literacy                   |       |
+| Personality                       |       |
+| Family history of type 2 diabetes |       |
+
+Table 2: Characteris of patients with communication of the diagnosis
+
+| Characteristics                   | No/Yes | Crude OR | Adjusted OR |
+|-----------------------------------|--------|----------|-------------|
+| Gender                            |        |          |             |
+| Age                               |        |          |             |
+| BMI                               |        |          |             |
+| Educational level                 |        |          |             |
+| Socioeconomic status              |        |          |             |
+| Health literacy                   |        |          |             |
+| Personality                       |        |          |             |
+| Family history of type 2 diabetes |        |          |             |
+
+Table 3: Characteris of patients with offer of follow-up
+
+| Characteristics                   | No/Yes | Crude OR | Adjusted OR |
+|-----------------------------------|--------|----------|-------------|
+| Gender                            |        |          |             |
+| Age                               |        |          |             |
+| BMI                               |        |          |             |
+| Educational level                 |        |          |             |
+| Socioeconomic status              |        |          |             |
+| Health literacy                   |        |          |             |
+| Personality                       |        |          |             |
+| Family history of type 2 diabetes |        |          |             |
+
+Table 4: Characteris of patients with referral to preventive interventions
+
+| Characteristics                   | No/Yes | Crude OR | Adjusted OR |
+|-----------------------------------|--------|----------|-------------|
+| Gender                            |        |          |             |
+| Age                               |        |          |             |
+| BMI                               |        |          |             |
+| Educational level                 |        |          |             |
+| Socioeconomic status              |        |          |             |
+| Health literacy                   |        |          |             |
+| Personality                       |        |          |             |
+| Family history of type 2 diabetes |        |          |             |
+
+Table 5: Characteris of patients with participation in preventive programs
+
+| Characteristics                   | No/Yes | Crude OR | Adjusted OR |
+|-----------------------------------|--------|----------|-------------|
+| Gender                            |        |          |             |
+| Age                               |        |          |             |
+| BMI                               |        |          |             |
+| Educational level                 |        |          |             |
+| Socioeconomic status              |        |          |             |
+| Health literacy                   |        |          |             |
+| Personality                       |        |          |             |
+| Family history of type 2 diabetes |        |          |             |

@@ -1,5 +1,5 @@
 ---
-title: "Protocol: TITLE"
+title: "Protocol: Individuals-with-prediabetes-managed-in-Denmark"
 # Add all contributors here
 author:
   - name: NAME

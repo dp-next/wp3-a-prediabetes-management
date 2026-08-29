@@ -1,0 +1,51 @@
+---
+title: "Individuals-with-prediabetes-managed-in-Denmark"
+author: "David-Vadsholt"
+format: docx
+editor: visual
+bibliography: references.bib
+---
+
+**Link to Github repository:** https://github.com/dp-next/WP3-study-prediabetes-handling/tree/main
+
+**Title:** How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?
+
+**Author list:** David Vadsholt, Johan Røikjer, Nicklas Rasmussen.
+
+**Background:**
+
+Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide[@rooney2023]. Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D[@pan1997; @tuomilehto2001; @reductio2002]. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors.
+
+However, little is known about how individuals actually are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, patient characteristics associated with receiving recommended management remain unknown.
+
+**Aim:** The primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.\
+The secondary aim is to identify demographic, clinical, and socioeconomic characteristics associated with receiving recommended management.
+
+**Hypothesis:** We hypothesise that a substantial proportion of individuals with HbA1c-defined prediabetes have neither been informed of their condition nor offered follow-up or preventive interventions. We further hypothesise that management differs according to age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
+
+**Required DP-Next data:**
+
+Questionnaire data on following - communication of elevated HbA1c or prediabetes; (Har du tidligere fået at vide, at du har prædiabetes (forstadie til type 2-diabetes)?, ja/nej) - offer of follow-up; (Er du blevet tilbudt opfølgning på dit blodsukker, Ja/Nej) - referral to municipal or other preventive interventions; (Er du blevet tilbudt eller henvist til et forebyggende tilbud pga. forhøjet blodsukker? (Ja/Nej) - participation in preventive programmes; (Har du deltaget i tilbuddet?, Ja/delvist, nej) - body mass index and family history of T2D; - educational attainment, socioeconomic position and health literacy (Brief Health Literacy Scale); - Personality inventory (IPIP-NEO) Danish Statistics - Region of residence. - Age and sex.
+
+**Outline of the analytical approach**
+
+Participant characteristics will be summarized using means with standard deviations for continuous variables and frequencies with percentages for categorical variables.
+
+The primary analyses will describe patient-reported management of prediabetes, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
+
+Unadjusted and adjusted logistic regression models will be used to examine participant characteristics associated with communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs. Results will be reported as odds ratios with 95% confidence intervals. Adjusted models will include all participant characteristics.
+
+**Timeline (And tackable table in github repository)**
+
+| Milestone                                | Target date  | Status/date |
+|------------------------------------------|--------------|-------------|
+| Synopsis and Steering Committee approval | Aug-Sep 2026 | In progress |
+| Data preparation and primary analyses    | Sep-Okt 2026 | Not started |
+| Tables, figures and manuscript draft     | Okt–Dec 2026 | Not started |
+| Conference: DES27                        | Jan 2027     | Not started |
+| Manuscript submission                    | Dec 2026     | Not started |
+
+**Connections to other projects:**
+
+This study is connected to WP4, as knowledge of current prediabetes management is needed to identify gaps in care and determine where future interventions may be most beneficial.\
+The study may form part of David Vadsholt’s PhD protocol.
