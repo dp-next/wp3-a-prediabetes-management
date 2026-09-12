@@ -1,6 +1,6 @@
 # These are the current states: "ongoing", "completed", "abandoned"
-status: "ongoing"
-date-created: "2026-08-25"
+status: ongoing
+date-created: 2026-08-25
 
 # Only fill these in once you've published these things and gotten a DOI.
 doi:
@@ -9,31 +9,42 @@ doi:
   protocol: ""
   repo: ""
 
-# TODO: Fill this in as soon as possible.
 # This info is used to automatically create a webpage that lists all the
 # projects in DP-Next.
 project:
-  title: ""
+  title: How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?
   description: |
     # Introduction
-
+    Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide[@rooney2023]. Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D[@pan1997; @tuomilehto2001; @reductio2002]. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors. However, little is known about how individuals actually are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, patient characteristics associated with receiving recommended management remain unknown.
     # Aims and hypotheses
+    The primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.
+    The secondary aim is to identify demographic, clinical, and socioeconomic characteristics associated with receiving recommended management.
+    We hypothesise that a substantial proportion of individuals with HbA1c-defined prediabetes have neither been informed of their condition nor offered follow-up or preventive interventions. We further hypothesise that management differs according to age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
 
     # Data sources
+    Data will be obtained as part of the DP-Next prospective cohort study. Participants undergo a questionnaire specifically developed for this study. The questionnaire collects patient-reported information on communication of the prediabetes diagnosis, follow-up, referral to preventive interventions and participation in interventions.
 
     # Statistical methods
-
+    Participant characteristics will be summarized using means with standard deviations for continuous variables and frequencies with percentages for categorical variables.
+    The primary analyses will describe patient-reported management of prediabetes, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
+    Unadjusted and adjusted logistic regression models will be used to examine participant characteristics associated with communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs. Results will be reported as odds ratios with 95% confidence intervals. Adjusted models will include all participant characteristics.
     # Proposed outputs and timelines
+    | Milestone                                | Target date  | Status/date |
+    |------------------------------------------|--------------|-------------|
+    | Synopsis and Steering Committee approval | Aug-Sep 2026 | In progress |
+    | Data preparation and primary analyses    | Sep-Okt 2026 | Not started |
+    | Tables, figures and manuscript draft     | Okt–Dec 2026 | Not started |
+    | Conference: DES27                        | Jan 2027     | Not started |
+    | Manuscript submission                    | Dec 2026     | Not started |
 
-# TODO: Fill this in as soon as possible.
 # This info is also used to display on DP-Next websites.
 authors:
-  - name: ""
-    email: ""
+  - name: David Vadsholt
+    email: david.vadsholt@rn.dk
     primary: true
     # Use the https://credit.niso.org roles. They are listed all below. Keep only the relevant ones.
     roles:
-      - "conceptualization"
+      - conceptualization
       - "data curation"
       - "formal analysis"
       - "funding acquisition"
