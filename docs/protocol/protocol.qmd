@@ -1,5 +1,5 @@
 ---
-title: "How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?"
+title: "How are individuals with prediabetes managed in Denmark, and which characteristics are associated with receiving recommended management?"
 # Add all contributors here
 author:
   - name: David Vadsholt
@@ -50,7 +50,7 @@ describing the study. Find checklists [here](https://www.equator-network.org/).
 
 ## Study information
 
-### How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management? A cross-sectional study within the DP-Next prospective cohort
+### How are individuals with prediabetes managed in Denmark, and which characteristics are associated with receiving recommended management? A cross-sectional study within the DP-Next prospective cohort
 
 ::: content-hidden
 *Put in the title of your study. Remember to include your study design in the
@@ -58,7 +58,7 @@ title.*
 :::
 
 ### Description
-This study describes the current management of prediabetes in Denmark from the patient perspective, including communication of prediabetes status, follow-up, referral to preventive interventions, and participation in preventive programs.
+This study describes the current management of prediabetes in Denmark from the individual perspective, including communication of prediabetes status, follow-up, referral to preventive interventions, and participation in preventive programs.
 Secondarily, the study examines which demographic, clinical, and socioeconomic characteristics are associated with receiving recommended management.
 
 ::: content-hidden
@@ -71,7 +71,7 @@ Background:
 
 Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide[@rooney2023]. Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D[@pan1997; @tuomilehto2001; @reductio2002]. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors.
 
-However, little is known about how individuals actually are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, patient characteristics associated with receiving recommended management remain unknown.
+However, little is known about how individuals actually are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, characteristics associated with receiving recommended management remain unknown.
 
 Aim: The primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.The secondary aim is to identify characteristics associated with receiving recommended management.
 
@@ -147,6 +147,7 @@ more information.
 
 ### Data collection procedures
 Individuals with HbA1c-defined prediabetes who complete the relevant sections of the DP-Next questionnaire will be chosen.
+Data will be collected through the DP-Next questionnaire. 
 
 ::: content-hidden
 - If relevant, describe if or how the subset of data was selected or chosen
