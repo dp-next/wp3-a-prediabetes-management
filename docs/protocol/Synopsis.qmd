@@ -39,7 +39,7 @@ Unadjusted and adjusted logistic regression models will be used to examine parti
 
 | Milestone                                | Target date  | Status/date |
 |------------------------------------------|--------------|-------------|
-| Synopsis and Steering Committee approval | Aug-Sep 2026 | In progress |
+| Synopsis and Steering Committee approval | Aug-Sep 2026 | Approved    |
 | Data preparation and primary analyses    | Sep-Okt 2026 | Not started |
 | Tables, figures and manuscript draft     | Okt–Dec 2026 | Not started |
 | Conference: DES27                        | Jan 2027     | Not started |

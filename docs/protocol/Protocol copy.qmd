@@ -87,7 +87,7 @@ Table 2: Characteris of patients with communication of the diagnosis
 
 | Characteristics                   | No/Yes | Crude OR | Adjusted OR |
 |-----------------------------------|--------|----------|-------------|
-| Gender                            |        |          |             |
+| Sex                               |        |          |             |
 | Age                               |        |          |             |
 | BMI                               |        |          |             |
 | Educational level                 |        |          |             |
@@ -100,7 +100,7 @@ Table 3: Characteris of patients with offer of follow-up
 
 | Characteristics                   | No/Yes | Crude OR | Adjusted OR |
 |-----------------------------------|--------|----------|-------------|
-| Gender                            |        |          |             |
+| Sex                               |        |          |             |
 | Age                               |        |          |             |
 | BMI                               |        |          |             |
 | Educational level                 |        |          |             |
@@ -113,7 +113,7 @@ Table 4: Characteris of patients with referral to preventive interventions
 
 | Characteristics                   | No/Yes | Crude OR | Adjusted OR |
 |-----------------------------------|--------|----------|-------------|
-| Gender                            |        |          |             |
+| Sex                               |        |          |             |
 | Age                               |        |          |             |
 | BMI                               |        |          |             |
 | Educational level                 |        |          |             |
@@ -126,7 +126,7 @@ Table 5: Characteris of patients with participation in preventive programs
 
 | Characteristics                   | No/Yes | Crude OR | Adjusted OR |
 |-----------------------------------|--------|----------|-------------|
-| Gender                            |        |          |             |
+| Sex                               |        |          |             |
 | Age                               |        |          |             |
 | BMI                               |        |          |             |
 | Educational level                 |        |          |             |

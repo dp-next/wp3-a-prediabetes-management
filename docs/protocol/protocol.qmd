@@ -1,11 +1,28 @@
 ---
-title: "Protocol: Individuals-with-prediabetes-managed-in-Denmark"
+title: "How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?"
 # Add all contributors here
 author:
-  - name: NAME
+  - name: David Vadsholt
     affiliation:
-      - name: INSTITUTION
-date: last-modified
+      - name: Steno Diabetes Center North Denmark, Aalborg University Hospital, Denmark
+      - name: Department of Clinical Medicine, Aalborg University, Denmark
+  - name: Johan Røikjer
+    affiliation:
+      - name: Steno Diabetes Center North Denmark, Aalborg University Hospital, Denmark
+      - name: Department of Clinical Medicine, Aalborg University, Denmark
+      - name: Department of Endocrinology, Aalborg University Hospital, Denmark
+  - name: Jonas Frey Rosborg Schaarup
+    affiliation:
+  name: Kristina Matthiesen Hansen
+    affiliation:
+  name: Mikkel Emil Iwanoff Kolind
+    affiliation:
+  name: Nicklas Rasmussen
+    affiliation:
+      - name: Steno Diabetes Center North Denmark, Aalborg University Hospital, Denmark
+      - name: Department of Clinical Medicine, Aalborg University, Denmark
+      - name: Department of Endocrinology, Aalborg University Hospital, Denmark
+date: 12-09-2026
 format: html
 # bibliography: "file/path"
 execute:
@@ -33,7 +50,7 @@ describing the study. Find checklists [here](https://www.equator-network.org/).
 
 ## Study information
 
-### Title
+### How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management? A cross-sectional study within the DP-Next prospective cohort
 
 ::: content-hidden
 *Put in the title of your study. Remember to include your study design in the
@@ -41,6 +58,8 @@ title.*
 :::
 
 ### Description
+This study describes the current management of prediabetes in Denmark from the patient perspective, including communication of prediabetes status, follow-up, referral to preventive interventions, and participation in preventive programs.
+Secondarily, the study examines which demographic, clinical, and socioeconomic characteristics are associated with receiving recommended management.
 
 ::: content-hidden
 Overall description of your project. Think of this as what you would reply if a
@@ -48,6 +67,15 @@ colleague asked you what your project was about.
 :::
 
 ### Objectives and hypotheses
+Background:
+
+Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide[@rooney2023]. Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D[@pan1997; @tuomilehto2001; @reductio2002]. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors.
+
+However, little is known about how individuals actually are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, patient characteristics associated with receiving recommended management remain unknown.
+
+Aim: The primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.The secondary aim is to identify characteristics associated with receiving recommended management.
+
+Hypothesis: We hypothesise that a substantial proportion of individuals with HbA1c-defined prediabetes have neither been informed of their condition nor offered follow-up or preventive interventions. We further hypothesise that management differs according to age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
 
 ::: content-hidden
 - Put in a very brief introduction to the topic. Explain the scientific
@@ -59,24 +87,23 @@ colleague asked you what your project was about.
 ## Design plan
 
 ### Study type
+This study is an observational study. 
 
 ::: content-hidden
-Note: Leave the below text here.
-:::
-
 **Observational Study**. Data is collected from study subjects that are not
 randomly assigned to a treatment. This includes surveys, natural experiments,
 and regression discontinuity designs.
-
-### Blinding
-
-::: content-hidden
-Note: Leave the below text here.
 :::
 
+### Blinding
 No blinding is involved in this study.
+::: content-hidden
+No blinding is involved in this study.
+:::
+
 
 ### Study design
+This study is a cross-sectional study within the ongoing DP-Next prospective cohort study. Questionnaire data will be collected as part of the DP-Next questionnaire, to assess the management of prediabetes, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive interventions.
 
 ::: content-hidden
 Describe your study design. Typical study designs for observation studies
@@ -97,11 +124,9 @@ include that it is a cohort and cross-sectional (most likely).
 ## Sampling plan
 
 ### Existing data
+Data will be obtained as part of the DP-Next prospective cohort study. Participants undergo a questionnaire specifically developed for this study. As of the date of submission, the data exist but we have not yet accessed it, and no analysis has been conducted related to the research plan, including calculation of summary statistics. 
 
 ::: content-hidden
-Note: Leave the below text here.
-:::
-
 **Registration prior to analysis of the data**. As of the date of submission,
 the data exist and you have accessed it, though no analysis has been conducted
 related to the research plan (including calculation of summary statistics). A
@@ -109,8 +134,11 @@ common situation for this scenario when a large dataset exists that is used for
 many different studies over time, or when a data set is randomly split into a
 sample for exploratory analyses, and the other section of data is reserved for
 later confirmatory data analysis.
+:::
 
 ### Explanation of existing data
+The questionnaire collects patient-reported information on communication of the prediabetes diagnosis, follow-up, referral to preventive interventions and participation in interventions.
+It also includes age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
 
 ::: content-hidden
 Describe the data source being used, ideally linking to its website that has
@@ -118,6 +146,7 @@ more information.
 :::
 
 ### Data collection procedures
+Individuals with HbA1c-defined prediabetes who complete the relevant sections of the DP-Next questionnaire will be chosen.
 
 ::: content-hidden
 - If relevant, describe if or how the subset of data was selected or chosen
@@ -128,6 +157,7 @@ more information.
 :::
 
 ### Sample size
+All individuals with HbA1c-defined prediabetes who complete the relevant sections of the DP-Next questionnaire will be included.
 
 ::: content-hidden
 Describe the participants. Describe the eligibility criteria and sources of
@@ -144,6 +174,9 @@ If relevant, describe why you chose the sample size that you did.
 ## Variables
 
 ### Measures variables
+The primary exposures are participant characteristics potentially associated with the management of prediabetes, including age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
+
+The primary outcomes are prediabetes management, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
 
 ::: content-hidden
 List the exposure(s), outcome(s), and covariates
@@ -152,6 +185,13 @@ List the exposure(s), outcome(s), and covariates
 ## Analysis plan
 
 ### Statistical models
+Participant characteristics will be summarized using means with standard deviations for continuous variables, when normally distributed. Non-normally distributed continuous variables will be presented as medians with interquartile ranges. Categorical variables will be summarized using frequencies with percentages.
+
+The primary analyses will describe patient-reported management of prediabetes, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
+
+Unadjusted and adjusted logistic regression models will be used to examine participant characteristics associated with communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs. Results will be reported as odds ratios with 95% confidence intervals. Adjusted models will include all participant characteristics.
+
+Statistical analyses will be performed using R version XX (R Foundation for Statistical Computing, Vienna, Austria).
 
 ::: content-hidden
 Describe your statistical analysis. This is essentially your statistical
@@ -164,7 +204,7 @@ addressed and sensitivity analyses.
 :::
 
 ### Transformations
-
+No transformations are planned for the data.
 ::: content-hidden
 Describe any transformations you will make to the data, such as centering,
 recoding, etc. This will likely change during the actual analysis, but at least
@@ -172,6 +212,7 @@ here you can give a general idea for what you will do to the data.
 :::
 
 ### Inference criteria
+A two-sided p-value <0.05 will be considered statistically significant. All statistical tests will be two-sided. No adjustment for multiple comparisons, such as the Bonferroni correction, will be applied. The analyses are based on a limited set of prespecified patient characteristics. Applying a Bonferroni correction in this setting would increase the risk of Type II error and may therefore obscure potentially relevant associations.
 
 ::: content-hidden
 Describe how you will infer that a result is meaningful or not. For instance, if
@@ -180,6 +221,7 @@ taking to minimize misclassification/false discovery rate.
 :::
 
 ### Data exclusion
+Individuals without prediabetes will be excluded from the analyses, as the study focuses on individuals with prediabetes. Additionally, participants with missing questionnaire data regarding prediabetes management will be excluded.
 
 ::: content-hidden
 Describe what data you will exclude and why. For instance, dropping type 1
@@ -188,6 +230,7 @@ outliers.
 :::
 
 ### Missing data
+ Participants with missing questionnaire data regarding prediabetes management will be excluded.
 
 ::: content-hidden
 Describe how you will handle missing or incomplete data. This will likely change
@@ -195,7 +238,7 @@ when you actually do your analysis, but its a good first step.
 :::
 
 ### Exploratory analyses (optional)
-
+Nothing specific has been planned for exploratory analyses. 
 ::: content-hidden
 Describe any exploratory analyses you will do and that you might report
 on/include in the manuscript. Exploratory analysis is on where you have not made
