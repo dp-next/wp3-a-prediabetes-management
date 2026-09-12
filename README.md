@@ -1,12 +1,8 @@
 # wp3-a-prediabetes-management: TODO fill in title
 
-TODO: Fill in a brief description of the project.
-
-> [!TIP]
->
-> This repository for a data analysis-based research project was generated from
-> the [t-squared](https://github.com/seedcase-project/t-squared) Seedcase
-> template :tada:
+Bried description of the project:
+The primary aim of this project is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.\
+The secondary aim is to identify demographic, clinical, and socioeconomic characteristics associated with receiving recommended management.
 
 ## Licensing
 
