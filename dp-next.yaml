@@ -31,7 +31,7 @@ project:
     # Proposed outputs and timelines
     | Milestone                                | Target date  | Status/date |
     |------------------------------------------|--------------|-------------|
-    | Synopsis and Steering Committee approval | Aug-Sep 2026 | In progress |
+    | Synopsis and Steering Committee approval | Aug-Sep 2026 | Approved    |
     | Data preparation and primary analyses    | Sep-Okt 2026 | Not started |
     | Tables, figures and manuscript draft     | Okt–Dec 2026 | Not started |
     | Conference: DES27                        | Jan 2027     | Not started |
@@ -42,28 +42,54 @@ authors:
   - name: David Vadsholt
     email: david.vadsholt@rn.dk
     primary: true
-    # Use the https://credit.niso.org roles. They are listed all below. Keep only the relevant ones.
     roles:
+      - Conceptualization
+      - Methodology
+      - Data curation
+      - Investigation 
+      - Writing – original draft
+      - Writing – review & editing.
       - conceptualization
-      - "data curation"
-      - "formal analysis"
-      - "funding acquisition"
-      - "investigation"
-      - "methodology"
-      - "project administration"
-      - "resources"
-      - "software"
-      - "supervision"
-      - "validation"
-      - "visualization"
-      - "writing – original draft"
-      - "writing – review & editing"
+      - data curation
     # Optional, who your supervisors are.
     supervisors:
-      - name:
-      - name:
-  - name: ""
-    email: ""
+      - name: Johan Røikjer
+      - name: Nicklas Rasmussen
+  - name: Johan Røikjer
+    email: j.roeikjaer@rn.dk
     roles:
-      - analysis
-      - writing
+      - conceptualization
+      - methodology
+      - Supervision
+      - Writing – review & editing.
+  - name: Jonas Frey Rosborg Schaarup
+    email: jfrscha@ph.au.dk
+    roles:
+      - conceptualization
+      - methodology
+      - Investigation
+      - Writing – review & editing.
+
+  - name: Kristina Matthiesen Hansen
+    email: krmaha@rm.dk
+    roles:
+      - conceptualization
+      - methodology
+      - Investigation
+      - Writing – review & editing.
+
+  - name: Mikkel Emil Iwanoff Kolind
+    email: mikkel.emil.iwanoff.kolind@rsyd.dk
+    roles:
+      - conceptualization
+      - methodology
+      - Investigation
+      - Writing – review & editing.
+
+  - name: Nicklas Rasmussen
+    email: nicklas.rasmussen@rn.dk
+    roles:
+      - conceptualization
+      - methodology
+      - Supervision
+      - Writing – review & editing.
