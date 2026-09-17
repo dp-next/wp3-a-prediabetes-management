@@ -137,7 +137,7 @@ later confirmatory data analysis.
 :::
 
 ### Explanation of existing data
-The questionnaire collects patient-reported information on communication of the prediabetes diagnosis, follow-up, referral to preventive interventions and participation in interventions.
+The questionnaire contains participant-reported information on communication of prediabetes diagnosis, follow-up, referral to preventive interventions and participation in interventions.
 It also includes age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
 
 ::: content-hidden
