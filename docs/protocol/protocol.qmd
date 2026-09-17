@@ -231,6 +231,7 @@ outliers.
 :::
 
 ### Missing data
+
  Participants with missing questionnaire data regarding prediabetes management will be excluded.
 
 ::: content-hidden
