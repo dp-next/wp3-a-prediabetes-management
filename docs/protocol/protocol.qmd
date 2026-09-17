@@ -76,7 +76,7 @@ However, little is known about how individuals actually are managed in routine c
 
 The primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.The secondary aim is to identify characteristics associated with receiving recommended management.
 
-Hypothesis: We hypothesise that a substantial proportion of individuals with HbA1c-defined prediabetes have neither been informed of their condition nor offered follow-up or preventive interventions. We further hypothesise that management differs according to age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
+We hypothesise that a substantial proportion of individuals with HbA1c-defined prediabetes have neither been informed of their condition nor offered follow-up or preventive interventions. We further hypothesise that management differs according to age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
 
 ::: content-hidden
 - Put in a very brief introduction to the topic. Explain the scientific
