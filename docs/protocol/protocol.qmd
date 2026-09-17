@@ -150,6 +150,9 @@ more information.
 :::
 
 ### Data collection procedures
+
+All data that we will use in this proposed analysis will be from a survey, which was sent out to thousands of in Denmark. That means all data was collected as survey data and in the format given by the survey.
+
 We will analyse individuals with self-reported HbA1c-defined prediabetes who complete the relevant sections of the DP-Next questionnaire.
 Data will be taken from the existing DP-Next questionnaire data package, described in <https://dp-next.github.io/questionnaire-data>. 
 
