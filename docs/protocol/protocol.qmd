@@ -127,7 +127,7 @@ include that it is a cohort and cross-sectional (most likely).
 
 ### Existing data
 
-Data will be obtained as part of the DP-Next prospective cohort study. Participants undergo a questionnaire specifically developed for this study. As of the date of submission, the data exist but we have not yet accessed it, and no analysis has been conducted related to the research plan, including calculation of summary statistics. 
+Data comes from the questionnaire phase of the DP-Next project. Participants filled out a questionnaire. See <https://dp-next.github.io/questionnaire-data> for more details about the data.
 
 ::: content-hidden
 **Registration prior to analysis of the data**. As of the date of submission,
