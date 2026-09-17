@@ -147,7 +147,7 @@ more information.
 
 ### Data collection procedures
 We will analyse individuals with self-reported HbA1c-defined prediabetes who complete the relevant sections of the DP-Next questionnaire.
-Data will be collected through the DP-Next questionnaire. 
+Data will be taken from the existing DP-Next questionnaire data package, described in <https://dp-next.github.io/questionnaire-data>. 
 
 ::: content-hidden
 - If relevant, describe if or how the subset of data was selected or chosen
