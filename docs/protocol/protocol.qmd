@@ -104,6 +104,7 @@ No blinding is involved in this study.
 
 
 ### Study design
+
 This study is a cross-sectional study within the ongoing DP-Next prospective cohort study. Questionnaire data will be collected as part of the DP-Next questionnaire, to assess the management of prediabetes, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive interventions.
 
 ::: content-hidden
