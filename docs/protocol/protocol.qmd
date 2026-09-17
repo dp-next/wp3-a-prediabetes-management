@@ -126,6 +126,7 @@ include that it is a cohort and cross-sectional (most likely).
 ## Sampling plan
 
 ### Existing data
+
 Data will be obtained as part of the DP-Next prospective cohort study. Participants undergo a questionnaire specifically developed for this study. As of the date of submission, the data exist but we have not yet accessed it, and no analysis has been conducted related to the research plan, including calculation of summary statistics. 
 
 ::: content-hidden
