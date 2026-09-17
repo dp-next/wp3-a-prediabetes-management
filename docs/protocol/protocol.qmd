@@ -213,6 +213,7 @@ here you can give a general idea for what you will do to the data.
 :::
 
 ### Inference criteria
+
 A two-sided p-value <0.05 will be considered statistically significant. All statistical tests will be two-sided. No adjustment for multiple comparisons, such as the Bonferroni correction, will be applied. The analyses are based on a limited set of prespecified patient characteristics. Applying a Bonferroni correction in this setting would increase the risk of Type II error and may therefore obscure potentially relevant associations.
 
 ::: content-hidden
