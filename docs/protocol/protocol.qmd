@@ -240,7 +240,9 @@ when you actually do your analysis, but its a good first step.
 :::
 
 ### Exploratory analyses (optional)
+
 Nothing specific has been planned for exploratory analyses. 
+
 ::: content-hidden
 Describe any exploratory analyses you will do and that you might report
 on/include in the manuscript. Exploratory analysis is on where you have not made
