@@ -205,7 +205,9 @@ addressed and sensitivity analyses.
 :::
 
 ### Transformations
+
 No transformations are planned for the data.
+
 ::: content-hidden
 Describe any transformations you will make to the data, such as centering,
 recoding, etc. This will likely change during the actual analysis, but at least
