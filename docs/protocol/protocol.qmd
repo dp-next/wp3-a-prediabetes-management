@@ -186,6 +186,7 @@ List the exposure(s), outcome(s), and covariates
 ## Analysis plan
 
 ### Statistical models
+
 Participant characteristics will be summarized using means with standard deviations for continuous variables, when normally distributed. Non-normally distributed continuous variables will be presented as medians with interquartile ranges. Categorical variables will be summarized using frequencies with percentages.
 
 The primary analyses will describe patient-reported management of prediabetes, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
