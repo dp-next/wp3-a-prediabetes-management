@@ -68,7 +68,6 @@ colleague asked you what your project was about.
 
 ### Objectives and hypotheses
 
-Background:
 
 Prediabetes and type 2 diabetes (T2D) represent a growing public health challenge worldwide[@rooney2023]. Large randomized clinical trials have demonstrated that intensive lifestyle interventions, including dietary modification, increased physical activity, and weight reduction, can substantially reduce the risk of progression from prediabetes to T2D[@pan1997; @tuomilehto2001; @reductio2002]. Despite this evidence, Denmark currently has no national clinical guidelines specifically addressing the management of prediabetes. Current practice is generally limited to recommendations for annual HbA1c monitoring, lifestyle modification, and referral to municipal preventive programs when considered appropriate. As a result, the management of prediabetes may vary considerably between healthcare providers and across healthcare sectors.
 
