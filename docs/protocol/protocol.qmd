@@ -158,6 +158,7 @@ Data will be taken from the existing DP-Next questionnaire data package, describ
 :::
 
 ### Sample size
+
 For this proposed project, we will include and analyze individuals who completed the DP-Next questionnaire who had self-reported HbA1c-defined prediabetes.
 
 ::: content-hidden
