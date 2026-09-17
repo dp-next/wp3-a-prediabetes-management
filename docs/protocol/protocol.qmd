@@ -222,6 +222,7 @@ taking to minimize misclassification/false discovery rate.
 :::
 
 ### Data exclusion
+
 Individuals without prediabetes will be excluded from the analyses, as the study focuses on individuals with prediabetes. Additionally, participants with missing questionnaire data regarding prediabetes management will be excluded.
 
 ::: content-hidden
