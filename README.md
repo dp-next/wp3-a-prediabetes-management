@@ -1,4 +1,5 @@
 # wp3-a-prediabetes-management: How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?
+
 This study describes the current management of prediabetes in Denmark from the patient perspective, including communication of prediabetes status, follow-up, referral to preventive interventions, and participation in preventive programs.
 Secondarily, the study examines which demographic, clinical, and socioeconomic characteristics are associated with receiving recommended management.
 
