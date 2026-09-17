@@ -1,8 +1,7 @@
-# wp3-a-prediabetes-management: TODO fill in title
+# wp3-a-prediabetes-management: How are individuals with prediabetes managed in Denmark, and which patient characteristics are associated with receiving recommended management?
 
-Bried description of the project:
-The primary aim of this project is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.\
-The secondary aim is to identify demographic, clinical, and socioeconomic characteristics associated with receiving recommended management.
+This study describes the current management of prediabetes in Denmark from the patient perspective, including communication of prediabetes status, follow-up, referral to preventive interventions, and participation in preventive programs.
+Secondarily, the study examines which demographic, clinical, and socioeconomic characteristics are associated with receiving recommended management.
 
 ## Licensing
 
