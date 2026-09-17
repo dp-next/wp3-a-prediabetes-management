@@ -175,6 +175,7 @@ If relevant, describe why you chose the sample size that you did.
 ## Variables
 
 ### Measures variables
+
 The primary exposures are participant characteristics potentially associated with the management of prediabetes, including age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
 
 The primary outcomes are prediabetes management, including communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs.
