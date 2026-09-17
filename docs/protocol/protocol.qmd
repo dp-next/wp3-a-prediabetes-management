@@ -74,7 +74,7 @@ Prediabetes and type 2 diabetes (T2D) represent a growing public health challeng
 
 However, little is known about how individuals actually are managed in routine clinical practice in Denmark. In particular, it remains unclear whether individuals are informed about their diagnosis, offered structured follow-up, or referred to preventive interventions in accordance with current recommendations. Furthermore, characteristics associated with receiving recommended management remain unknown.
 
-Aim: The primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.The secondary aim is to identify characteristics associated with receiving recommended management.
+The primary aim of this study is to describe the current management of prediabetes in Denmark from the patient's perspective, including communication of the diagnosis, follow-up, referral to preventive interventions, and participation in preventive programs.The secondary aim is to identify characteristics associated with receiving recommended management.
 
 Hypothesis: We hypothesise that a substantial proportion of individuals with HbA1c-defined prediabetes have neither been informed of their condition nor offered follow-up or preventive interventions. We further hypothesise that management differs according to age, sex, body mass index, family history of T2D, educational attainment, socioeconomic position, health literacy, personality and region of residence.
 
