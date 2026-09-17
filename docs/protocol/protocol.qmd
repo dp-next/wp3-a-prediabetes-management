@@ -88,9 +88,9 @@ We hypothesise that a substantial proportion of individuals with HbA1c-defined p
 ## Design plan
 
 ### Study type
+
 This study is an observational study. 
 
-::: content-hidden
 **Observational Study**. Data is collected from study subjects that are not
 randomly assigned to a treatment. This includes surveys, natural experiments,
 and regression discontinuity designs.
