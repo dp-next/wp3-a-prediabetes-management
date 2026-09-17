@@ -193,7 +193,7 @@ The primary analyses will describe patient-reported management of prediabetes, i
 
 Unadjusted and adjusted logistic regression models will be used to examine participant characteristics associated with communication of the diagnosis, offer of follow-up, referral to preventive interventions, and participation in preventive programs. Results will be reported as odds ratios with 95% confidence intervals. Adjusted models will include all participant characteristics.
 
-Statistical analyses will be performed using R version XX (R Foundation for Statistical Computing, Vienna, Austria).
+Statistical analyses will be performed using R (R Foundation for Statistical Computing, Vienna, Austria).
 
 ::: content-hidden
 Describe your statistical analysis. This is essentially your statistical
